@@ -156,4 +156,8 @@ public class KarboNode {
     return result;
   }
 
+  public Boolean getOperStatus(){
+    return this.oper_status;
+  }
+
 }
